@@ -1,4 +1,4 @@
-# Axel
+# Axel KOUAKOU
 
 Étudiant en informatique, je construis des projets web & mobile concrets tout en approfondissant mes bases en développement back et front-end.
 
